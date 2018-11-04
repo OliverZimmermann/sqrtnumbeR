@@ -1,0 +1,30 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# sqrtnumbeR
+The package "sqrtnumbeR" calculates the square of any given number.
+
+## Installation
+You can install "sqrtnumbeR" from [GITHUB](https://github.com/OliverZimmermann/sqrtnumbeR) as follows:
+``` {r, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("OliverZimmermann/sqrtnumbeR")
+```
+## Example
+Basic example for calculating the square of a number:
+```{r example}
+library(sqrtnumbeR)
+sqrtnumbeR(3)
+```
+## Getting help
+If you have a bug or an idea [github](https://github.com/OliverZimmermann/sqrtnumbeR/issues).
