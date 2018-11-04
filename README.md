@@ -7,7 +7,7 @@ Installation
 ------------
 
 You can install “sqrtnumbeR” from
-[GITHUB](https://github.com/OliverZimmermann/sqrtnumbeR) as follows:
+[GitHub](https://github.com/OliverZimmermann/sqrtnumbeR) as follows:
 
 ``` r
 # install.packages("devtools")
@@ -29,4 +29,4 @@ Getting help
 ------------
 
 If you have a bug or an idea
-[github](https://github.com/OliverZimmermann/sqrtnumbeR/issues).
+[GitHub](https://github.com/OliverZimmermann/sqrtnumbeR/issues).
